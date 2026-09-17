@@ -15,7 +15,15 @@ Datos tomados el **8 de septiembre de 2026**.
 | Datos experimentales | este repositorio, carpeta [`data/raw/`](data/raw) |
 | Guía del laboratorio | [`docs/guia-laboratorio.pdf`](docs/guia-laboratorio.pdf) |
 
-**Integrantes:** `COMPLETAR`
+**Grupo 6 — Integrantes:**
+
+| Integrante | Correo |
+|---|---|
+| Perez Torres, Christopher Renato | christopher.perez@utec.edu.pe |
+| Quispe Monzon, Oswaldo Alejandro | oswaldo.quispe@utec.edu.pe |
+| Soto Cristobal, Camilo Ernesto | camilo.soto@utec.edu.pe |
+| Teran Taica, Mauricio Eduardo | mauricio.teran@utec.edu.pe |
+| Wood De La Fuente Chavez, Mia Alexie | mia.wood@utec.edu.pe |
 
 ---
 
