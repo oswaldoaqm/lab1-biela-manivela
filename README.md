@@ -154,7 +154,6 @@ giro no uniforme.
 
 ---
 
-<<<<<<< HEAD
 ## Fotografías del laboratorio
 
 | Archivo | Qué muestra |
@@ -165,8 +164,6 @@ giro no uniforme.
 
 ## Integridad de los datos
 
-=======
->>>>>>> ee9c4b5fcc524da192a5d93bdced2c6ba7f69812
 Los seis archivos en `data/raw/` son los exportados directamente de Logger Pro, sin
 modificación alguna. Una corrida (`30Hz-c1`) se excluyó por completo y otra
 (`20Hz-c2`) se recortó parcialmente, en ambos casos por fallas instrumentales
