@@ -154,6 +154,14 @@ giro no uniforme.
 
 ---
 
+## Fotografías del laboratorio
+
+| Archivo | Qué muestra |
+|---|---|
+| [`fotos/Principio.jpeg`](fotos/Principio.jpeg) | Montaje inicial del sistema biela-manivela |
+| [`fotos/Sensor.jpeg`](fotos/Sensor.jpeg) | Sensor de movimiento Vernier frente al carrito |
+| [`fotos/Evidencia-principal.jpeg`](fotos/Evidencia-principal.jpeg) | Montaje completo durante la adquisición |
+
 ## Integridad de los datos
 
 Los seis archivos en `data/raw/` son los exportados directamente de Logger Pro, sin
