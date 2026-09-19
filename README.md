@@ -11,7 +11,7 @@ Datos tomados el **8 de septiembre de 2026**.
 
 | | |
 |---|---|
-| Video de explicación (YouTube) | `https://youtu.be/RP4-1a8Ga-4` |
+| Video de explicación (YouTube) | [Ver video del Grupo 6](https://youtu.be/RP4-1a8Ga-4) |
 | Datos experimentales | este repositorio, carpeta [`data/raw/`](data/raw) |
 | Guía del laboratorio | [`docs/guia-laboratorio.pdf`](docs/guia-laboratorio.pdf) |
 
